@@ -1,0 +1,994 @@
+2021-10-15 14:35:09 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:10 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:11 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:12 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:13 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:14 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:15 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:16 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:17 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:18 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:19 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:20 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:21 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:22 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:23 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:24 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:31 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 14:35:32 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2021-10-15 15:44:19 pid:7472 Workerman[start.php] start in DEBUG mode
+2021-10-15 15:44:52 pid:7472 Workerman[start.php] stopping ...
+2021-10-15 15:44:52 pid:7472 Workerman[start.php] has been stopped
+2021-10-15 16:44:22 pid:7513 Workerman[start.php] start in DEBUG mode
+2021-10-15 16:44:33 pid:7513 Workerman[start.php] stopping ...
+2021-10-15 16:44:33 pid:7513 Workerman[start.php] has been stopped
+2021-10-15 16:45:22 pid:7531 Workerman[start.php] start in DEBUG mode
+2021-10-15 16:45:24 pid:7531 Workerman[start.php] stopping ...
+2021-10-15 16:45:24 pid:7531 Workerman[start.php] has been stopped
+2021-10-15 17:01:41 pid:7545 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:01:41 pid:7546 Worker[7546] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:41 pid:7547 Worker[7547] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:41 pid:7548 Worker[7548] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:41 pid:7549 Worker[7549] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:41 pid:7545 worker[AppWorker:7546] exit with status 65280
+2021-10-15 17:01:41 pid:7545 worker[AppWorker:7547] exit with status 65280
+2021-10-15 17:01:42 pid:7559 Worker[7559] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7548] exit with status 65280
+2021-10-15 17:01:42 pid:7560 Worker[7560] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7549] exit with status 65280
+2021-10-15 17:01:42 pid:7561 Worker[7561] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7559] exit with status 65280
+2021-10-15 17:01:42 pid:7562 Worker[7562] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7560] exit with status 65280
+2021-10-15 17:01:42 pid:7563 Worker[7563] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7561] exit with status 65280
+2021-10-15 17:01:42 pid:7564 Worker[7564] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7562] exit with status 65280
+2021-10-15 17:01:42 pid:7565 Worker[7565] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7563] exit with status 65280
+2021-10-15 17:01:42 pid:7566 Worker[7566] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7564] exit with status 65280
+2021-10-15 17:01:42 pid:7567 Worker[7567] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7565] exit with status 65280
+2021-10-15 17:01:42 pid:7568 Worker[7568] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7566] exit with status 65280
+2021-10-15 17:01:42 pid:7569 Worker[7569] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7567] exit with status 65280
+2021-10-15 17:01:42 pid:7570 Worker[7570] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7568] exit with status 65280
+2021-10-15 17:01:42 pid:7571 Worker[7571] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7569] exit with status 65280
+2021-10-15 17:01:42 pid:7572 Worker[7572] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7570] exit with status 65280
+2021-10-15 17:01:42 pid:7573 Worker[7573] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7571] exit with status 65280
+2021-10-15 17:01:42 pid:7574 Worker[7574] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7572] exit with status 65280
+2021-10-15 17:01:42 pid:7575 Worker[7575] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7573] exit with status 65280
+2021-10-15 17:01:42 pid:7576 Worker[7576] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7574] exit with status 65280
+2021-10-15 17:01:42 pid:7577 Worker[7577] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7575] exit with status 65280
+2021-10-15 17:01:42 pid:7578 Worker[7578] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7576] exit with status 65280
+2021-10-15 17:01:42 pid:7579 Worker[7579] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7577] exit with status 65280
+2021-10-15 17:01:42 pid:7580 Worker[7580] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7578] exit with status 65280
+2021-10-15 17:01:42 pid:7581 Worker[7581] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7579] exit with status 65280
+2021-10-15 17:01:42 pid:7582 Worker[7582] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7580] exit with status 65280
+2021-10-15 17:01:42 pid:7583 Worker[7583] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:42 pid:7545 worker[AppWorker:7581] exit with status 65280
+2021-10-15 17:01:42 pid:7584 Worker[7584] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7582] exit with status 65280
+2021-10-15 17:01:43 pid:7585 Worker[7585] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7583] exit with status 65280
+2021-10-15 17:01:43 pid:7586 Worker[7586] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7584] exit with status 65280
+2021-10-15 17:01:43 pid:7587 Worker[7587] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7585] exit with status 65280
+2021-10-15 17:01:43 pid:7588 Worker[7588] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7586] exit with status 65280
+2021-10-15 17:01:43 pid:7589 Worker[7589] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7587] exit with status 65280
+2021-10-15 17:01:43 pid:7590 Worker[7590] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 Workerman[start.php] stopping ...
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7588] exit with status 65280
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7589] exit with status 65280
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7590] exit with status 65280
+2021-10-15 17:01:43 pid:7591 Worker[7591] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:01:43 pid:7545 worker[AppWorker:7591] exit with status 65280
+2021-10-15 17:01:43 pid:7545 Workerman[start.php] has been stopped
+2021-10-15 17:02:32 pid:7599 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:02:32 pid:7600 Worker[7600] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:32 pid:7601 Worker[7601] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:32 pid:7602 Worker[7602] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:32 pid:7603 Worker[7603] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7600] exit with status 65280
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7601] exit with status 65280
+2021-10-15 17:02:33 pid:7613 Worker[7613] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7602] exit with status 65280
+2021-10-15 17:02:33 pid:7614 Worker[7614] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7603] exit with status 65280
+2021-10-15 17:02:33 pid:7615 Worker[7615] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7613] exit with status 65280
+2021-10-15 17:02:33 pid:7616 Worker[7616] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7614] exit with status 65280
+2021-10-15 17:02:33 pid:7617 Worker[7617] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7615] exit with status 65280
+2021-10-15 17:02:33 pid:7618 Worker[7618] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7616] exit with status 65280
+2021-10-15 17:02:33 pid:7619 Worker[7619] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7617] exit with status 65280
+2021-10-15 17:02:33 pid:7620 Worker[7620] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7618] exit with status 65280
+2021-10-15 17:02:33 pid:7621 Worker[7621] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7619] exit with status 65280
+2021-10-15 17:02:33 pid:7622 Worker[7622] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7620] exit with status 65280
+2021-10-15 17:02:33 pid:7623 Worker[7623] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7621] exit with status 65280
+2021-10-15 17:02:33 pid:7624 Worker[7624] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7622] exit with status 65280
+2021-10-15 17:02:33 pid:7625 Worker[7625] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7623] exit with status 65280
+2021-10-15 17:02:33 pid:7626 Worker[7626] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7624] exit with status 65280
+2021-10-15 17:02:33 pid:7627 Worker[7627] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7625] exit with status 65280
+2021-10-15 17:02:33 pid:7628 Worker[7628] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7626] exit with status 65280
+2021-10-15 17:02:33 pid:7629 Worker[7629] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7627] exit with status 65280
+2021-10-15 17:02:33 pid:7630 Worker[7630] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7628] exit with status 65280
+2021-10-15 17:02:33 pid:7631 Worker[7631] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7629] exit with status 65280
+2021-10-15 17:02:33 pid:7632 Worker[7632] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7630] exit with status 65280
+2021-10-15 17:02:33 pid:7633 Worker[7633] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7631] exit with status 65280
+2021-10-15 17:02:33 pid:7634 Worker[7634] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:33 pid:7599 worker[AppWorker:7632] exit with status 65280
+2021-10-15 17:02:33 pid:7635 Worker[7635] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:34 pid:7599 Workerman[start.php] stopping ...
+2021-10-15 17:02:34 pid:7599 worker[AppWorker:7633] exit with status 65280
+2021-10-15 17:02:34 pid:7599 worker[AppWorker:7634] exit with status 65280
+2021-10-15 17:02:34 pid:7599 worker[AppWorker:7635] exit with status 65280
+2021-10-15 17:02:34 pid:7636 Worker[7636] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/init' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/Applications/app/Events.php on line 35"
+2021-10-15 17:02:34 pid:7599 worker[AppWorker:7636] exit with status 65280
+2021-10-15 17:02:34 pid:7599 Workerman[start.php] has been stopped
+2021-10-15 17:04:04 pid:7639 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:04:04 pid:7640 Worker[7640] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:04 pid:7641 Worker[7641] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7642 Worker[7642] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7643 Worker[7643] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7640] exit with status 65280
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7641] exit with status 65280
+2021-10-15 17:04:05 pid:7653 Worker[7653] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7642] exit with status 65280
+2021-10-15 17:04:05 pid:7654 Worker[7654] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7643] exit with status 65280
+2021-10-15 17:04:05 pid:7655 Worker[7655] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7653] exit with status 65280
+2021-10-15 17:04:05 pid:7656 Worker[7656] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7654] exit with status 65280
+2021-10-15 17:04:05 pid:7657 Worker[7657] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7655] exit with status 65280
+2021-10-15 17:04:05 pid:7658 Worker[7658] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7656] exit with status 65280
+2021-10-15 17:04:05 pid:7659 Worker[7659] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7657] exit with status 65280
+2021-10-15 17:04:05 pid:7660 Worker[7660] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7658] exit with status 65280
+2021-10-15 17:04:05 pid:7661 Worker[7661] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7659] exit with status 65280
+2021-10-15 17:04:05 pid:7662 Worker[7662] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7660] exit with status 65280
+2021-10-15 17:04:05 pid:7663 Worker[7663] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7661] exit with status 65280
+2021-10-15 17:04:05 pid:7664 Worker[7664] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7662] exit with status 65280
+2021-10-15 17:04:05 pid:7665 Worker[7665] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7663] exit with status 65280
+2021-10-15 17:04:05 pid:7666 Worker[7666] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7664] exit with status 65280
+2021-10-15 17:04:05 pid:7667 Worker[7667] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7665] exit with status 65280
+2021-10-15 17:04:05 pid:7668 Worker[7668] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:05 pid:7639 worker[AppWorker:7666] exit with status 65280
+2021-10-15 17:04:06 pid:7669 Worker[7669] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:06 pid:7639 Workerman[start.php] stopping ...
+2021-10-15 17:04:06 pid:7639 worker[AppWorker:7667] exit with status 65280
+2021-10-15 17:04:06 pid:7639 worker[AppWorker:7668] exit with status 65280
+2021-10-15 17:04:06 pid:7670 Worker[7670] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/www/GatewayWorker/config/db.php' (include_path='.:/usr/share/php') in /home/www/GatewayWorker/init/loadConfig.php on line 5"
+2021-10-15 17:04:06 pid:7639 worker[AppWorker:7669] exit with status 65280
+2021-10-15 17:04:06 pid:7639 worker[AppWorker:7670] exit with status 65280
+2021-10-15 17:04:06 pid:7639 Workerman[start.php] has been stopped
+2021-10-15 17:05:47 pid:7681 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:05:49 pid:7681 Workerman[start.php] stopping ...
+2021-10-15 17:05:49 pid:7681 Workerman[start.php] has been stopped
+2021-10-15 17:09:37 pid:7695 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:09:39 pid:7695 Workerman[start.php] stopping ...
+2021-10-15 17:09:39 pid:7695 Workerman[start.php] has been stopped
+2021-10-15 17:10:13 pid:7709 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:10:14 pid:7709 Workerman[start.php] stopping ...
+2021-10-15 17:10:14 pid:7709 Workerman[start.php] has been stopped
+2021-10-15 17:36:51 pid:7723 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:36:53 pid:7723 Workerman[start.php] stopping ...
+2021-10-15 17:36:53 pid:7723 Workerman[start.php] has been stopped
+2021-10-15 17:37:16 pid:7737 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:37:32 pid:7737 Workerman[start.php] stopping ...
+2021-10-15 17:37:32 pid:7737 Workerman[start.php] has been stopped
+2021-10-15 17:37:35 pid:7751 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:37:38 pid:7751 Workerman[start.php] stopping ...
+2021-10-15 17:37:38 pid:7751 Workerman[start.php] has been stopped
+2021-10-15 17:41:18 pid:7765 Workerman[start.php] start in DEBUG mode
+2021-10-15 17:41:23 pid:7765 Workerman[start.php] stopping ...
+2021-10-15 17:41:23 pid:7765 Workerman[start.php] has been stopped
+2021-10-16 14:05:12 pid:7795 Workerman[start.php] start in DEBUG mode
+2021-10-16 14:05:14 pid:7795 Workerman[start.php] stopping ...
+2021-10-16 14:05:14 pid:7795 Workerman[start.php] has been stopped
+2021-10-16 14:13:30 pid:7810 Workerman[start.php] start in DEBUG mode
+2021-10-16 14:32:41 pid:7810 Workerman[start.php] stopping ...
+2021-10-16 14:32:41 pid:7810 Workerman[start.php] has been stopped
+2021-10-16 14:33:33 pid:7827 Workerman[start.php] start in DEBUG mode
+2021-10-16 14:36:34 pid:7839 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-16 14:36:34 pid:7839 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-16 14:40:25 pid:7827 Workerman[start.php] stopping ...
+2021-10-16 14:40:25 pid:7827 Workerman[start.php] has been stopped
+2021-10-16 14:40:26 pid:7841 Workerman[start.php] start in DEBUG mode
+2021-10-16 14:43:56 pid:7841 Workerman[start.php] stopping ...
+2021-10-16 14:43:56 pid:7841 Workerman[start.php] has been stopped
+2021-10-16 14:43:58 pid:7855 Workerman[start.php] start in DEBUG mode
+2021-10-16 14:46:09 pid:7855 Workerman[start.php] stopping ...
+2021-10-16 14:46:09 pid:7855 Workerman[start.php] has been stopped
+2021-10-16 14:46:15 pid:7869 Workerman[start.php] start in DEBUG mode
+2021-10-16 14:46:29 pid:7871 Error: Call to undefined method ReflectionClass::dispatch() in /home/www/GatewayWorker/Applications/app/Events.php:54
+Stack trace:
+#0 [internal function]: Events::onMessage()
+#1 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(408): call_user_func()
+#2 /home/www/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\BusinessWorker->onGatewayMessage()
+#3 /home/www/GatewayWorker/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead()
+#4 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#5 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#6 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\BusinessWorker->run()
+#7 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux()
+#8 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#9 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#10 /home/www/GatewayWorker/start.php(42): Workerman\Worker::runAll()
+#11 {main}
+2021-10-16 14:46:29 pid:7871 Worker[7871] process terminated
+2021-10-16 14:46:29 pid:7869 worker[AppWorker:7871] exit with status 64000
+2021-10-16 14:57:02 pid:7869 Workerman[start.php] stopping ...
+2021-10-16 14:57:02 pid:7869 Workerman[start.php] has been stopped
+2021-10-16 14:57:04 pid:7884 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:04:29 pid:7884 Workerman[start.php] stopping ...
+2021-10-16 15:04:29 pid:7884 Workerman[start.php] has been stopped
+2021-10-16 15:05:08 pid:7898 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:06:33 pid:7898 Workerman[start.php] stopping ...
+2021-10-16 15:06:33 pid:7898 Workerman[start.php] has been stopped
+2021-10-16 15:06:34 pid:7912 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:08:23 pid:7912 Workerman[start.php] stopping ...
+2021-10-16 15:08:23 pid:7912 Workerman[start.php] has been stopped
+2021-10-16 15:08:25 pid:7926 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:11:17 pid:7926 Workerman[start.php] stopping ...
+2021-10-16 15:11:17 pid:7926 Workerman[start.php] has been stopped
+2021-10-16 15:11:19 pid:7940 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:14:00 pid:7940 Workerman[start.php] stopping ...
+2021-10-16 15:14:00 pid:7940 Workerman[start.php] has been stopped
+2021-10-16 15:14:01 pid:7954 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:14:29 pid:7957 Error: Object of class Lib\Dispatch\MessageDispatcher could not be converted to string in /home/www/GatewayWorker/lib/SingleFactory.php:13
+Stack trace:
+#0 /home/www/GatewayWorker/Applications/app/Events.php(48): Lib\SingleFactory::getInstance()
+#1 [internal function]: Events::onMessage()
+#2 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(408): call_user_func()
+#3 /home/www/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\BusinessWorker->onGatewayMessage()
+#4 /home/www/GatewayWorker/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead()
+#5 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#6 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#7 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\BusinessWorker->run()
+#8 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux()
+#9 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#10 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#11 /home/www/GatewayWorker/start.php(42): Workerman\Worker::runAll()
+#12 {main}
+2021-10-16 15:14:29 pid:7957 Worker[7957] process terminated
+2021-10-16 15:14:29 pid:7954 worker[AppWorker:7957] exit with status 64000
+2021-10-16 15:15:32 pid:7954 Workerman[start.php] stopping ...
+2021-10-16 15:15:32 pid:7954 Workerman[start.php] has been stopped
+2021-10-16 15:15:34 pid:7969 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:19:04 pid:7969 Workerman[start.php] stopping ...
+2021-10-16 15:19:04 pid:7969 Workerman[start.php] has been stopped
+2021-10-16 15:19:07 pid:7983 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:20:57 pid:7983 Workerman[start.php] stopping ...
+2021-10-16 15:20:57 pid:7983 Workerman[start.php] has been stopped
+2021-10-16 15:20:58 pid:7997 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:21:25 pid:7997 Workerman[start.php] stopping ...
+2021-10-16 15:21:25 pid:7997 Workerman[start.php] has been stopped
+2021-10-16 15:21:26 pid:8011 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:22:08 pid:8011 Workerman[start.php] stopping ...
+2021-10-16 15:22:08 pid:8011 Workerman[start.php] has been stopped
+2021-10-16 15:22:09 pid:8025 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:42:16 pid:8025 Workerman[start.php] stopping ...
+2021-10-16 15:42:16 pid:8025 Workerman[start.php] has been stopped
+2021-10-16 15:42:18 pid:8039 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:44:22 pid:8039 Workerman[start.php] stopping ...
+2021-10-16 15:44:22 pid:8039 Workerman[start.php] has been stopped
+2021-10-16 15:44:23 pid:8053 Workerman[start.php] start in DEBUG mode
+2021-10-16 15:50:05 pid:8053 Workerman[start.php] stopping ...
+2021-10-16 15:50:05 pid:8053 Workerman[start.php] has been stopped
+2021-10-16 15:50:07 pid:8067 Workerman[start.php] start in DEBUG mode
+2021-10-16 16:37:09 pid:8067 Workerman[start.php] stopping ...
+2021-10-16 16:37:09 pid:8067 Workerman[start.php] has been stopped
+2021-10-16 16:37:10 pid:8081 Workerman[start.php] start in DEBUG mode
+2021-10-16 16:38:58 pid:8081 Workerman[start.php] stopping ...
+2021-10-16 16:38:58 pid:8081 Workerman[start.php] has been stopped
+2021-10-16 16:39:11 pid:8095 Workerman[start.php] start in DEBUG mode
+2021-10-16 16:42:27 pid:8095 Workerman[start.php] stopping ...
+2021-10-16 16:42:27 pid:8095 Workerman[start.php] has been stopped
+2021-10-16 16:42:28 pid:8109 Workerman[start.php] start in DEBUG mode
+2021-10-16 16:43:11 pid:8109 Workerman[start.php] stopping ...
+2021-10-16 16:43:11 pid:8109 Workerman[start.php] has been stopped
+2021-10-16 16:43:12 pid:8123 Workerman[start.php] start in DEBUG mode
+2021-10-16 16:45:30 pid:8123 Workerman[start.php] stopping ...
+2021-10-16 16:45:30 pid:8123 Workerman[start.php] has been stopped
+2021-10-16 16:45:32 pid:8137 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:42:32 pid:8137 Workerman[start.php] stopping ...
+2021-10-16 17:42:32 pid:8137 Workerman[start.php] has been stopped
+2021-10-16 17:45:46 pid:8164 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:45:49 pid:8164 Workerman[start.php] stopping ...
+2021-10-16 17:45:49 pid:8164 Workerman[start.php] has been stopped
+2021-10-16 17:49:02 pid:8180 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:49:04 pid:8180 Workerman[start.php] stopping ...
+2021-10-16 17:49:04 pid:8180 Workerman[start.php] has been stopped
+2021-10-16 17:52:37 pid:8194 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:52:38 pid:8194 Workerman[start.php] stopping ...
+2021-10-16 17:52:38 pid:8194 Workerman[start.php] has been stopped
+2021-10-16 17:53:38 pid:8208 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:53:40 pid:8208 Workerman[start.php] stopping ...
+2021-10-16 17:53:40 pid:8208 Workerman[start.php] has been stopped
+2021-10-16 17:55:00 pid:8222 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:55:01 pid:8222 Workerman[start.php] stopping ...
+2021-10-16 17:55:01 pid:8222 Workerman[start.php] has been stopped
+2021-10-16 17:55:18 pid:8236 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:55:19 pid:8236 Workerman[start.php] stopping ...
+2021-10-16 17:55:19 pid:8236 Workerman[start.php] has been stopped
+2021-10-16 17:56:44 pid:8250 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:56:45 pid:8250 Workerman[start.php] stopping ...
+2021-10-16 17:56:45 pid:8250 Workerman[start.php] has been stopped
+2021-10-16 17:57:06 pid:8264 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:57:07 pid:8264 Workerman[start.php] stopping ...
+2021-10-16 17:57:07 pid:8264 Workerman[start.php] has been stopped
+2021-10-16 17:57:44 pid:8278 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:57:45 pid:8278 Workerman[start.php] stopping ...
+2021-10-16 17:57:45 pid:8278 Workerman[start.php] has been stopped
+2021-10-16 17:58:32 pid:8292 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:58:33 pid:8292 Workerman[start.php] stopping ...
+2021-10-16 17:58:33 pid:8292 Workerman[start.php] has been stopped
+2021-10-16 17:59:46 pid:8306 Workerman[start.php] start in DEBUG mode
+2021-10-16 17:59:47 pid:8306 Workerman[start.php] stopping ...
+2021-10-16 17:59:47 pid:8306 Workerman[start.php] has been stopped
+2021-10-16 18:00:09 pid:8320 Workerman[start.php] start in DEBUG mode
+2021-10-16 18:00:10 pid:8320 Workerman[start.php] stopping ...
+2021-10-16 18:00:10 pid:8320 Workerman[start.php] has been stopped
+2021-10-16 18:03:10 pid:8334 Workerman[start.php] start in DEBUG mode
+2021-10-16 18:03:12 pid:8334 Workerman[start.php] stopping ...
+2021-10-16 18:03:12 pid:8334 Workerman[start.php] has been stopped
+2021-10-16 18:03:58 pid:8348 Workerman[start.php] start in DEBUG mode
+2021-10-16 18:03:59 pid:8348 Workerman[start.php] stopping ...
+2021-10-16 18:03:59 pid:8348 Workerman[start.php] has been stopped
+2021-10-16 18:04:11 pid:8362 Workerman[start.php] start in DEBUG mode
+2021-10-16 18:04:12 pid:8362 Workerman[start.php] stopping ...
+2021-10-16 18:04:12 pid:8362 Workerman[start.php] has been stopped
+2021-10-16 18:09:38 pid:8379 Workerman[start.php] start in DEBUG mode
+2021-10-16 18:09:40 pid:8379 Workerman[start.php] stopping ...
+2021-10-16 18:09:40 pid:8379 Workerman[start.php] has been stopped
+2021-10-16 18:11:48 pid:8393 Workerman[start.php] start in DEBUG mode
+2021-10-16 18:11:49 pid:8393 Workerman[start.php] stopping ...
+2021-10-16 18:11:49 pid:8393 Workerman[start.php] has been stopped
+2021-10-16 18:13:07 pid:8407 Workerman[start.php] start in DEBUG mode
+2021-10-16 18:13:09 pid:8407 Workerman[start.php] stopping ...
+2021-10-16 18:13:09 pid:8407 Workerman[start.php] has been stopped
+2021-10-16 19:35:46 pid:8421 Workerman[start.php] start in DEBUG mode
+2021-10-16 19:35:49 pid:8421 Workerman[start.php] stopping ...
+2021-10-16 19:35:49 pid:8421 Workerman[start.php] has been stopped
+2021-10-16 19:38:01 pid:8435 Workerman[start.php] start in DEBUG mode
+2021-10-16 19:38:03 pid:8435 Workerman[start.php] stopping ...
+2021-10-16 19:38:03 pid:8435 Workerman[start.php] has been stopped
+2021-10-16 19:58:57 pid:8455 Workerman[start.php] start in DEBUG mode
+2021-10-16 19:59:00 pid:8455 Workerman[start.php] stopping ...
+2021-10-16 19:59:00 pid:8455 Workerman[start.php] has been stopped
+2021-10-16 20:07:31 pid:8469 Workerman[start.php] start in DEBUG mode
+2021-10-16 20:07:33 pid:8469 Workerman[start.php] stopping ...
+2021-10-16 20:07:33 pid:8469 Workerman[start.php] has been stopped
+2021-10-16 20:11:19 pid:8483 Workerman[start.php] start in DEBUG mode
+2021-10-16 20:11:20 pid:8483 Workerman[start.php] stopping ...
+2021-10-16 20:11:20 pid:8483 Workerman[start.php] has been stopped
+2021-10-16 20:17:17 pid:8501 Workerman[start.php] start in DEBUG mode
+2021-10-16 20:17:18 pid:8501 Workerman[start.php] stopping ...
+2021-10-16 20:17:18 pid:8501 Workerman[start.php] has been stopped
+2021-10-16 20:35:18 pid:8515 Workerman[start.php] start in DEBUG mode
+2021-10-16 20:35:19 pid:8515 Workerman[start.php] stopping ...
+2021-10-16 20:35:19 pid:8515 Workerman[start.php] has been stopped
+2021-10-16 20:36:04 pid:8529 Workerman[start.php] start in DEBUG mode
+2021-10-16 20:36:06 pid:8529 Workerman[start.php] stopping ...
+2021-10-16 20:36:06 pid:8529 Workerman[start.php] has been stopped
+2021-10-16 20:52:14 pid:8543 Workerman[start.php] start in DEBUG mode
+2021-10-16 20:55:18 pid:8543 Workerman[start.php] stopping ...
+2021-10-16 20:55:18 pid:8543 Workerman[start.php] has been stopped
+2021-10-16 20:55:26 pid:8557 Workerman[start.php] start in DEBUG mode
+2021-10-16 21:01:53 pid:8557 Workerman[start.php] stopping ...
+2021-10-16 21:01:53 pid:8557 Workerman[start.php] has been stopped
+2021-10-16 22:20:29 pid:8581 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:20:31 pid:8581 Workerman[start.php] stopping ...
+2021-10-16 22:20:31 pid:8581 Workerman[start.php] has been stopped
+2021-10-16 22:22:18 pid:8596 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:22:21 pid:8596 Workerman[start.php] stopping ...
+2021-10-16 22:22:21 pid:8596 Workerman[start.php] has been stopped
+2021-10-16 22:29:57 pid:8618 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:29:58 pid:8618 Workerman[start.php] stopping ...
+2021-10-16 22:29:59 pid:8618 Workerman[start.php] has been stopped
+2021-10-16 22:32:02 pid:8633 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:32:04 pid:8633 Workerman[start.php] stopping ...
+2021-10-16 22:32:04 pid:8633 Workerman[start.php] has been stopped
+2021-10-16 22:32:22 pid:8647 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:32:24 pid:8647 Workerman[start.php] stopping ...
+2021-10-16 22:32:24 pid:8647 Workerman[start.php] has been stopped
+2021-10-16 22:33:01 pid:8661 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:33:12 pid:8661 Workerman[start.php] stopping ...
+2021-10-16 22:33:12 pid:8661 Workerman[start.php] has been stopped
+2021-10-16 22:33:33 pid:8675 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:34:32 pid:8675 Workerman[start.php] stopping ...
+2021-10-16 22:34:32 pid:8675 Workerman[start.php] has been stopped
+2021-10-16 22:37:14 pid:8694 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:37:18 pid:8694 Workerman[start.php] stopping ...
+2021-10-16 22:37:18 pid:8694 Workerman[start.php] has been stopped
+2021-10-16 22:37:26 pid:8708 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:37:44 pid:8708 Workerman[start.php] stopping ...
+2021-10-16 22:37:44 pid:8708 Workerman[start.php] has been stopped
+2021-10-16 22:37:45 pid:8722 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:37:46 pid:8722 Workerman[start.php] stopping ...
+2021-10-16 22:37:46 pid:8722 Workerman[start.php] has been stopped
+2021-10-16 22:39:46 pid:8739 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:39:49 pid:8739 Workerman[start.php] stopping ...
+2021-10-16 22:39:49 pid:8739 Workerman[start.php] has been stopped
+2021-10-16 22:40:39 pid:8755 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:40:42 pid:8755 Workerman[start.php] stopping ...
+2021-10-16 22:40:42 pid:8755 Workerman[start.php] has been stopped
+2021-10-16 22:41:50 pid:8769 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:41:52 pid:8769 Workerman[start.php] stopping ...
+2021-10-16 22:41:52 pid:8769 Workerman[start.php] has been stopped
+2021-10-16 22:45:54 pid:79 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:45:56 pid:79 Workerman[start.php] stopping ...
+2021-10-16 22:45:56 pid:79 Workerman[start.php] has been stopped
+2021-10-16 22:46:26 pid:93 Workerman[start.php] start in DEBUG mode
+2021-10-16 22:46:27 pid:93 Workerman[start.php] stopping ...
+2021-10-16 22:46:28 pid:93 Workerman[start.php] has been stopped
+2021-10-17 11:57:48 pid:9357 Workerman[start.php] start in DEBUG mode
+2021-10-17 11:57:50 pid:9357 Workerman[start.php] stopping ...
+2021-10-17 11:57:50 pid:9357 Workerman[start.php] has been stopped
+2021-10-17 11:57:59 pid:9371 Workerman[start.php] start in DEBUG mode
+2021-10-17 11:58:02 pid:9371 Workerman[start.php] stopping ...
+2021-10-17 11:58:02 pid:9371 Workerman[start.php] has been stopped
+2021-10-17 12:00:47 pid:9385 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:00:49 pid:9385 Workerman[start.php] stopping ...
+2021-10-17 12:00:49 pid:9385 Workerman[start.php] has been stopped
+2021-10-17 12:01:15 pid:9399 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:01:16 pid:9399 Workerman[start.php] stopping ...
+2021-10-17 12:01:16 pid:9399 Workerman[start.php] has been stopped
+2021-10-17 12:01:53 pid:9413 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:01:55 pid:9413 Workerman[start.php] stopping ...
+2021-10-17 12:01:55 pid:9413 Workerman[start.php] has been stopped
+2021-10-17 12:06:08 pid:9427 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:06:10 pid:9427 Workerman[start.php] stopping ...
+2021-10-17 12:06:10 pid:9427 Workerman[start.php] has been stopped
+2021-10-17 12:09:29 pid:9509 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:11:18 pid:9509 Workerman[start.php] stopping ...
+2021-10-17 12:11:18 pid:9509 Workerman[start.php] has been stopped
+2021-10-17 12:11:19 pid:9523 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:11:23 pid:9523 Workerman[start.php] stopping ...
+2021-10-17 12:11:23 pid:9523 Workerman[start.php] has been stopped
+2021-10-17 12:11:35 pid:9537 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:11:37 pid:9537 Workerman[start.php] stopping ...
+2021-10-17 12:11:37 pid:9537 Workerman[start.php] has been stopped
+2021-10-17 12:21:34 pid:9552 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:21:36 pid:9552 Workerman[start.php] stopping ...
+2021-10-17 12:21:36 pid:9552 Workerman[start.php] has been stopped
+2021-10-17 12:35:12 pid:9566 Workerman[start.php] start in DEBUG mode
+2021-10-17 12:35:13 pid:9566 Workerman[start.php] stopping ...
+2021-10-17 12:35:13 pid:9566 Workerman[start.php] has been stopped
+2021-10-17 13:57:03 pid:9588 Workerman[start.php] start in DEBUG mode
+2021-10-17 13:57:04 pid:9588 Workerman[start.php] stopping ...
+2021-10-17 13:57:04 pid:9588 Workerman[start.php] has been stopped
+2021-10-17 14:03:06 pid:9602 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:03:07 pid:9602 Workerman[start.php] stopping ...
+2021-10-17 14:03:07 pid:9602 Workerman[start.php] has been stopped
+2021-10-17 14:07:49 pid:9616 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:07:50 pid:9616 Workerman[start.php] stopping ...
+2021-10-17 14:07:50 pid:9616 Workerman[start.php] has been stopped
+2021-10-17 14:27:51 pid:9633 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:27:52 pid:9633 Workerman[start.php] stopping ...
+2021-10-17 14:27:52 pid:9633 Workerman[start.php] has been stopped
+2021-10-17 14:29:44 pid:9647 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:29:46 pid:9647 Workerman[start.php] stopping ...
+2021-10-17 14:29:46 pid:9647 Workerman[start.php] has been stopped
+2021-10-17 14:33:22 pid:9661 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:33:23 pid:9661 Workerman[start.php] stopping ...
+2021-10-17 14:33:23 pid:9661 Workerman[start.php] has been stopped
+2021-10-17 14:35:46 pid:9693 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:35:48 pid:9693 Workerman[start.php] stopping ...
+2021-10-17 14:35:48 pid:9693 Workerman[start.php] has been stopped
+2021-10-17 14:37:00 pid:9707 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:37:01 pid:9707 Workerman[start.php] stopping ...
+2021-10-17 14:37:01 pid:9707 Workerman[start.php] has been stopped
+2021-10-17 14:43:16 pid:9722 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:43:18 pid:9722 Workerman[start.php] stopping ...
+2021-10-17 14:43:18 pid:9722 Workerman[start.php] has been stopped
+2021-10-17 14:45:05 pid:9736 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:45:12 pid:9736 Workerman[start.php] stopping ...
+2021-10-17 14:45:12 pid:9736 Workerman[start.php] has been stopped
+2021-10-17 14:45:25 pid:9750 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:45:26 pid:9750 Workerman[start.php] stopping ...
+2021-10-17 14:45:26 pid:9750 Workerman[start.php] has been stopped
+2021-10-17 14:49:47 pid:9764 Workerman[start.php] start in DEBUG mode
+2021-10-17 14:49:48 pid:9764 Workerman[start.php] stopping ...
+2021-10-17 14:49:48 pid:9764 Workerman[start.php] has been stopped
+2021-10-17 15:00:18 pid:9778 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:00:20 pid:9778 Workerman[start.php] stopping ...
+2021-10-17 15:00:20 pid:9778 Workerman[start.php] has been stopped
+2021-10-17 15:02:27 pid:9792 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:02:28 pid:9792 Workerman[start.php] stopping ...
+2021-10-17 15:02:28 pid:9792 Workerman[start.php] has been stopped
+2021-10-17 15:04:29 pid:9806 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:04:32 pid:9806 Workerman[start.php] stopping ...
+2021-10-17 15:04:32 pid:9806 Workerman[start.php] has been stopped
+2021-10-17 15:05:08 pid:9820 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:05:09 pid:9820 Workerman[start.php] stopping ...
+2021-10-17 15:05:09 pid:9820 Workerman[start.php] has been stopped
+2021-10-17 15:08:12 pid:9834 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:08:12 pid:9834 Workerman[start.php] stopping ...
+2021-10-17 15:08:12 pid:9834 Workerman[start.php] has been stopped
+2021-10-17 15:19:27 pid:9849 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:19:29 pid:9849 Workerman[start.php] stopping ...
+2021-10-17 15:19:29 pid:9849 Workerman[start.php] has been stopped
+2021-10-17 15:33:49 pid:9867 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:33:50 pid:9867 Workerman[start.php] stopping ...
+2021-10-17 15:33:50 pid:9867 Workerman[start.php] has been stopped
+2021-10-17 15:35:34 pid:9881 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:35:36 pid:9881 Workerman[start.php] stopping ...
+2021-10-17 15:35:36 pid:9881 Workerman[start.php] has been stopped
+2021-10-17 15:42:06 pid:9896 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:42:07 pid:9896 Workerman[start.php] stopping ...
+2021-10-17 15:42:07 pid:9896 Workerman[start.php] has been stopped
+2021-10-17 15:44:26 pid:9910 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:44:27 pid:9910 Workerman[start.php] stopping ...
+2021-10-17 15:44:27 pid:9910 Workerman[start.php] has been stopped
+2021-10-17 15:44:44 pid:9924 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:44:45 pid:9924 Workerman[start.php] stopping ...
+2021-10-17 15:44:45 pid:9924 Workerman[start.php] has been stopped
+2021-10-17 15:44:58 pid:9938 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:44:59 pid:9938 Workerman[start.php] stopping ...
+2021-10-17 15:44:59 pid:9938 Workerman[start.php] has been stopped
+2021-10-17 15:47:34 pid:9952 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:47:35 pid:9952 Workerman[start.php] stopping ...
+2021-10-17 15:47:35 pid:9952 Workerman[start.php] has been stopped
+2021-10-17 15:52:03 pid:9966 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:52:04 pid:9966 Workerman[start.php] stopping ...
+2021-10-17 15:52:04 pid:9966 Workerman[start.php] has been stopped
+2021-10-17 15:52:33 pid:9980 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:52:33 pid:9980 Workerman[start.php] stopping ...
+2021-10-17 15:52:33 pid:9980 Workerman[start.php] has been stopped
+2021-10-17 15:52:45 pid:9994 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:52:46 pid:9994 Workerman[start.php] stopping ...
+2021-10-17 15:52:46 pid:9994 Workerman[start.php] has been stopped
+2021-10-17 15:53:11 pid:10008 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:53:12 pid:10008 Workerman[start.php] stopping ...
+2021-10-17 15:53:12 pid:10008 Workerman[start.php] has been stopped
+2021-10-17 15:56:06 pid:10022 Workerman[start.php] start in DEBUG mode
+2021-10-17 15:56:07 pid:10022 Workerman[start.php] stopping ...
+2021-10-17 15:56:07 pid:10022 Workerman[start.php] has been stopped
+2021-10-17 16:05:31 pid:10036 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:05:32 pid:10036 Workerman[start.php] stopping ...
+2021-10-17 16:05:32 pid:10036 Workerman[start.php] has been stopped
+2021-10-17 16:07:25 pid:10050 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:07:27 pid:10050 Workerman[start.php] stopping ...
+2021-10-17 16:07:27 pid:10050 Workerman[start.php] has been stopped
+2021-10-17 16:09:25 pid:10064 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:09:32 pid:10064 Workerman[start.php] stopping ...
+2021-10-17 16:09:32 pid:10064 Workerman[start.php] has been stopped
+2021-10-17 16:11:52 pid:10078 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:11:53 pid:10078 Workerman[start.php] stopping ...
+2021-10-17 16:11:53 pid:10078 Workerman[start.php] has been stopped
+2021-10-17 16:14:24 pid:10092 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:14:25 pid:10092 Workerman[start.php] stopping ...
+2021-10-17 16:14:25 pid:10092 Workerman[start.php] has been stopped
+2021-10-17 16:15:40 pid:10106 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:15:41 pid:10106 Workerman[start.php] stopping ...
+2021-10-17 16:15:41 pid:10106 Workerman[start.php] has been stopped
+2021-10-17 16:34:51 pid:10124 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:34:53 pid:10124 Workerman[start.php] stopping ...
+2021-10-17 16:34:53 pid:10124 Workerman[start.php] has been stopped
+2021-10-17 16:46:10 pid:10140 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:46:11 pid:10140 Workerman[start.php] stopping ...
+2021-10-17 16:46:11 pid:10140 Workerman[start.php] has been stopped
+2021-10-17 16:58:47 pid:10184 Workerman[start.php] start in DEBUG mode
+2021-10-17 16:58:49 pid:10184 Workerman[start.php] stopping ...
+2021-10-17 16:58:49 pid:10184 Workerman[start.php] has been stopped
+2021-10-17 17:00:12 pid:10198 Workerman[start.php] start in DEBUG mode
+2021-10-17 17:00:13 pid:10198 Workerman[start.php] stopping ...
+2021-10-17 17:00:13 pid:10198 Workerman[start.php] has been stopped
+2021-10-17 17:00:34 pid:10212 Workerman[start.php] start in DEBUG mode
+2021-10-17 17:02:26 pid:10212 Workerman[start.php] stopping ...
+2021-10-17 17:02:26 pid:10212 Workerman[start.php] has been stopped
+2021-10-17 17:02:27 pid:10226 Workerman[start.php] start in DEBUG mode
+2021-10-17 17:05:11 pid:10226 Workerman[start.php] stopping ...
+2021-10-17 17:05:11 pid:10226 Workerman[start.php] has been stopped
+2021-10-17 17:05:46 pid:10240 Workerman[start.php] start in DEBUG mode
+2021-10-17 17:05:47 pid:10240 Workerman[start.php] stopping ...
+2021-10-17 17:05:47 pid:10240 Workerman[start.php] has been stopped
+2021-10-17 17:06:19 pid:10254 Workerman[start.php] start in DEBUG mode
+2021-10-17 17:06:20 pid:10254 Workerman[start.php] stopping ...
+2021-10-17 17:06:20 pid:10254 Workerman[start.php] has been stopped
+2021-10-17 17:06:57 pid:10268 Workerman[start.php] start in DEBUG mode
+2021-10-17 17:06:58 pid:10268 Workerman[start.php] stopping ...
+2021-10-17 17:06:58 pid:10268 Workerman[start.php] has been stopped
+2021-10-18 17:08:29 pid:43 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:08:30 pid:43 Workerman[start.php] stopping ...
+2021-10-18 17:08:30 pid:43 Workerman[start.php] has been stopped
+2021-10-18 17:09:12 pid:57 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:09:14 pid:57 Workerman[start.php] stopping ...
+2021-10-18 17:09:14 pid:57 Workerman[start.php] has been stopped
+2021-10-18 17:26:26 pid:71 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:26:28 pid:71 Workerman[start.php] stopping ...
+2021-10-18 17:26:28 pid:71 Workerman[start.php] has been stopped
+2021-10-18 17:28:58 pid:85 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:28:59 pid:85 Workerman[start.php] stopping ...
+2021-10-18 17:28:59 pid:85 Workerman[start.php] has been stopped
+2021-10-18 17:34:39 pid:99 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:34:40 pid:99 Workerman[start.php] stopping ...
+2021-10-18 17:34:40 pid:99 Workerman[start.php] has been stopped
+2021-10-18 17:41:57 pid:113 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:41:59 pid:113 Workerman[start.php] stopping ...
+2021-10-18 17:41:59 pid:113 Workerman[start.php] has been stopped
+2021-10-18 17:43:31 pid:129 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:43:33 pid:129 Workerman[start.php] stopping ...
+2021-10-18 17:43:33 pid:129 Workerman[start.php] has been stopped
+2021-10-18 17:44:15 pid:143 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:44:19 pid:143 Workerman[start.php] stopping ...
+2021-10-18 17:44:19 pid:143 Workerman[start.php] has been stopped
+2021-10-18 17:46:39 pid:157 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:54:11 pid:157 Workerman[start.php] stopping ...
+2021-10-18 17:54:11 pid:157 Workerman[start.php] has been stopped
+2021-10-18 17:56:24 pid:173 Workerman[start.php] start in DEBUG mode
+2021-10-18 17:56:25 pid:173 Workerman[start.php] stopping ...
+2021-10-18 17:56:25 pid:173 Workerman[start.php] has been stopped
+2021-10-18 18:05:08 pid:190 Workerman[start.php] start in DEBUG mode
+2021-10-18 18:05:10 pid:190 Workerman[start.php] stopping ...
+2021-10-18 18:05:10 pid:190 Workerman[start.php] has been stopped
+2021-10-18 18:16:51 pid:204 Workerman[start.php] start in DEBUG mode
+2021-10-18 18:16:53 pid:204 Workerman[start.php] stopping ...
+2021-10-18 18:16:53 pid:204 Workerman[start.php] has been stopped
+2021-10-18 18:19:59 pid:221 Workerman[start.php] start in DEBUG mode
+2021-10-18 18:20:00 pid:221 Workerman[start.php] stopping ...
+2021-10-18 18:20:00 pid:221 Workerman[start.php] has been stopped
+2021-10-18 18:22:07 pid:235 Workerman[start.php] start in DEBUG mode
+2021-10-18 18:22:09 pid:235 Workerman[start.php] stopping ...
+2021-10-18 18:22:09 pid:235 Workerman[start.php] has been stopped
+2021-10-18 18:22:14 pid:249 Workerman[start.php] start in DEBUG mode
+2021-10-18 18:22:16 pid:249 Workerman[start.php] stopping ...
+2021-10-18 18:22:16 pid:249 Workerman[start.php] has been stopped
+2021-10-19 09:12:09 pid:263 Workerman[start.php] start in DEBUG mode
+2021-10-19 09:12:10 pid:263 Workerman[start.php] stopping ...
+2021-10-19 09:12:10 pid:263 Workerman[start.php] has been stopped
+2021-10-19 10:01:46 pid:368 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:01:48 pid:368 Workerman[start.php] stopping ...
+2021-10-19 10:01:48 pid:368 Workerman[start.php] has been stopped
+2021-10-19 10:03:39 pid:382 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:03:40 pid:382 Workerman[start.php] stopping ...
+2021-10-19 10:03:40 pid:382 Workerman[start.php] has been stopped
+2021-10-19 10:06:25 pid:396 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:06:26 pid:396 Workerman[start.php] stopping ...
+2021-10-19 10:06:26 pid:396 Workerman[start.php] has been stopped
+2021-10-19 10:06:45 pid:410 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:06:46 pid:410 Workerman[start.php] stopping ...
+2021-10-19 10:06:46 pid:410 Workerman[start.php] has been stopped
+2021-10-19 10:36:26 pid:427 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:36:28 pid:427 Workerman[start.php] stopping ...
+2021-10-19 10:36:28 pid:427 Workerman[start.php] has been stopped
+2021-10-19 10:38:16 pid:442 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:38:18 pid:442 Workerman[start.php] stopping ...
+2021-10-19 10:38:18 pid:442 Workerman[start.php] has been stopped
+2021-10-19 10:43:03 pid:457 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:43:05 pid:457 Workerman[start.php] stopping ...
+2021-10-19 10:43:05 pid:457 Workerman[start.php] has been stopped
+2021-10-19 10:43:13 pid:471 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:47:41 pid:471 Workerman[start.php] stopping ...
+2021-10-19 10:47:41 pid:471 Workerman[start.php] has been stopped
+2021-10-19 10:47:42 pid:485 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:47:44 pid:485 Workerman[start.php] stopping ...
+2021-10-19 10:47:44 pid:485 Workerman[start.php] has been stopped
+2021-10-19 10:47:50 pid:499 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:47:52 pid:499 Workerman[start.php] stopping ...
+2021-10-19 10:47:52 pid:499 Workerman[start.php] has been stopped
+2021-10-19 10:57:28 pid:513 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:57:29 pid:513 Workerman[start.php] stopping ...
+2021-10-19 10:57:29 pid:513 Workerman[start.php] has been stopped
+2021-10-19 10:58:03 pid:527 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:58:04 pid:527 Workerman[start.php] stopping ...
+2021-10-19 10:58:04 pid:527 Workerman[start.php] has been stopped
+2021-10-19 10:59:02 pid:541 Workerman[start.php] start in DEBUG mode
+2021-10-19 10:59:03 pid:541 Workerman[start.php] stopping ...
+2021-10-19 10:59:03 pid:541 Workerman[start.php] has been stopped
+2021-10-19 13:49:55 pid:559 Workerman[start.php] start in DEBUG mode
+2021-10-19 13:50:24 pid:562 TypeError: Cannot access offset of type string on string in /home/www/GatewayWorker/lib/extend/MessageDispatcher.php:38
+Stack trace:
+#0 /home/www/GatewayWorker/lib/extend/MessageDispatcher.php(29): Lib\Extend\MessageDispatcher->getHandlerType()
+#1 /home/www/GatewayWorker/lib/extend/MessageDispatcher.php(19): Lib\Extend\MessageDispatcher->doDispatch()
+#2 /home/www/GatewayWorker/Applications/app/Events.php(47): Lib\Extend\MessageDispatcher->dispatch()
+#3 [internal function]: Events::onMessage()
+#4 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(408): call_user_func()
+#5 /home/www/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\BusinessWorker->onGatewayMessage()
+#6 /home/www/GatewayWorker/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead()
+#7 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#8 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#9 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\BusinessWorker->run()
+#10 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux()
+#11 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#12 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#13 /home/www/GatewayWorker/start.php(49): Workerman\Worker::runAll()
+#14 {main}
+2021-10-19 13:50:24 pid:562 Worker[562] process terminated
+2021-10-19 13:50:24 pid:559 worker[AppWorker:562] exit with status 64000
+2021-10-19 13:51:43 pid:559 Workerman[start.php] stopping ...
+2021-10-19 13:51:43 pid:559 Workerman[start.php] has been stopped
+2021-10-19 13:51:43 pid:574 Workerman[start.php] start in DEBUG mode
+2021-10-19 13:51:56 pid:577 ArgumentCountError: Too few arguments to function App\Handler\DefaultHandler::hello(), 0 passed and exactly 1 expected in /home/www/GatewayWorker/Applications/app/handler/DefaultHandler.php:18
+Stack trace:
+#0 [internal function]: App\Handler\DefaultHandler->hello()
+#1 /home/www/GatewayWorker/lib/extend/MessageDispatcher.php(31): ReflectionMethod->invoke()
+#2 /home/www/GatewayWorker/lib/extend/MessageDispatcher.php(19): Lib\Extend\MessageDispatcher->doDispatch()
+#3 /home/www/GatewayWorker/Applications/app/Events.php(47): Lib\Extend\MessageDispatcher->dispatch()
+#4 [internal function]: Events::onMessage()
+#5 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(408): call_user_func()
+#6 /home/www/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\BusinessWorker->onGatewayMessage()
+#7 /home/www/GatewayWorker/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead()
+#8 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#9 /home/www/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#10 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\BusinessWorker->run()
+#11 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux()
+#12 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#13 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#14 /home/www/GatewayWorker/start.php(49): Workerman\Worker::runAll()
+#15 {main}
+2021-10-19 13:51:56 pid:577 Worker[577] process terminated
+2021-10-19 13:51:56 pid:574 worker[AppWorker:577] exit with status 64000
+2021-10-19 13:52:02 pid:574 Workerman[start.php] stopping ...
+2021-10-19 13:52:02 pid:574 Workerman[start.php] has been stopped
+2021-10-19 13:59:02 pid:589 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:00:53 pid:589 Workerman[start.php] stopping ...
+2021-10-19 14:00:53 pid:589 Workerman[start.php] has been stopped
+2021-10-19 14:00:55 pid:603 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:06:27 pid:603 Workerman[start.php] stopping ...
+2021-10-19 14:06:27 pid:603 Workerman[start.php] has been stopped
+2021-10-19 14:23:52 pid:617 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:24:22 pid:617 Workerman[start.php] stopping ...
+2021-10-19 14:24:22 pid:617 Workerman[start.php] has been stopped
+2021-10-19 14:24:24 pid:631 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:27:13 pid:631 Workerman[start.php] stopping ...
+2021-10-19 14:27:13 pid:631 Workerman[start.php] has been stopped
+2021-10-19 14:27:15 pid:645 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:28:38 pid:645 Workerman[start.php] stopping ...
+2021-10-19 14:28:38 pid:645 Workerman[start.php] has been stopped
+2021-10-19 14:28:39 pid:659 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:28:57 pid:659 Workerman[start.php] stopping ...
+2021-10-19 14:28:57 pid:659 Workerman[start.php] has been stopped
+2021-10-19 14:28:58 pid:673 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:29:42 pid:673 Workerman[start.php] stopping ...
+2021-10-19 14:29:42 pid:673 Workerman[start.php] has been stopped
+2021-10-19 14:29:43 pid:687 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:37:43 pid:687 Workerman[start.php] stopping ...
+2021-10-19 14:37:43 pid:687 Workerman[start.php] has been stopped
+2021-10-19 14:37:46 pid:701 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:38:36 pid:701 Workerman[start.php] stopping ...
+2021-10-19 14:38:36 pid:701 Workerman[start.php] has been stopped
+2021-10-19 14:38:38 pid:715 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:40:46 pid:715 Workerman[start.php] stopping ...
+2021-10-19 14:40:46 pid:715 Workerman[start.php] has been stopped
+2021-10-19 14:40:47 pid:729 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:41:31 pid:729 Workerman[start.php] stopping ...
+2021-10-19 14:41:31 pid:729 Workerman[start.php] has been stopped
+2021-10-19 14:41:32 pid:743 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:42:11 pid:743 Workerman[start.php] stopping ...
+2021-10-19 14:42:11 pid:743 Workerman[start.php] has been stopped
+2021-10-19 14:42:12 pid:757 Workerman[start.php] start in DEBUG mode
+2021-10-19 14:45:12 pid:757 Workerman[start.php] stopping ...
+2021-10-19 14:45:12 pid:757 Workerman[start.php] has been stopped
+2021-10-19 14:45:15 pid:771 Workerman[start.php] start in DEBUG mode
+2021-10-19 15:00:40 pid:771 Workerman[start.php] stopping ...
+2021-10-19 15:00:40 pid:771 Workerman[start.php] has been stopped
+2021-10-19 15:03:28 pid:785 Workerman[start.php] start in DEBUG mode
+2021-10-19 15:04:34 pid:785 Workerman[start.php] stopping ...
+2021-10-19 15:04:34 pid:785 Workerman[start.php] has been stopped
+2021-10-19 15:04:36 pid:799 Workerman[start.php] start in DEBUG mode
+2021-10-19 15:44:31 pid:799 Workerman[start.php] stopping ...
+2021-10-19 15:44:31 pid:799 Workerman[start.php] has been stopped
+2021-10-19 16:13:19 pid:813 Workerman[start.php] start in DEBUG mode
+2021-10-19 16:14:49 pid:813 Workerman[start.php] stopping ...
+2021-10-19 16:14:49 pid:813 Workerman[start.php] has been stopped
+2021-10-19 16:17:47 pid:827 Workerman[start.php] start in DEBUG mode
+2021-10-19 16:19:24 pid:827 Workerman[start.php] stopping ...
+2021-10-19 16:19:24 pid:827 Workerman[start.php] has been stopped
+2021-10-19 16:19:26 pid:841 Workerman[start.php] start in DEBUG mode
+2021-10-19 16:19:50 pid:841 Workerman[start.php] stopping ...
+2021-10-19 16:19:50 pid:841 Workerman[start.php] has been stopped
+2021-10-19 16:19:52 pid:855 Workerman[start.php] start in DEBUG mode
+2021-10-19 16:22:51 pid:855 Workerman[start.php] stopping ...
+2021-10-19 16:22:51 pid:855 Workerman[start.php] has been stopped
+2021-10-23 10:12:48 pid:79 Workerman[start.php] start in DEBUG mode
+2021-10-23 10:17:27 pid:79 Workerman[start.php] stopping ...
+2021-10-23 10:17:27 pid:79 Workerman[start.php] has been stopped
+2021-10-23 10:17:28 pid:93 Workerman[start.php] start in DEBUG mode
+2021-10-23 10:17:31 pid:93 Workerman[start.php] stopping ...
+2021-10-23 10:17:31 pid:93 Workerman[start.php] has been stopped
+2021-10-23 10:32:36 pid:118 Workerman[start.php] start in DEBUG mode
+2021-10-23 10:32:39 pid:118 Workerman[start.php] stopping ...
+2021-10-23 10:32:39 pid:118 Workerman[start.php] has been stopped
+2021-10-23 10:34:54 pid:132 Workerman[start.php] start in DEBUG mode
+2021-10-23 10:34:56 pid:132 Workerman[start.php] stopping ...
+2021-10-23 10:34:56 pid:132 Workerman[start.php] has been stopped
+2021-10-23 10:36:33 pid:146 Workerman[start.php] start in DEBUG mode
+2021-10-23 10:36:34 pid:146 Workerman[start.php] stopping ...
+2021-10-23 10:36:34 pid:146 Workerman[start.php] has been stopped
+2021-10-23 10:41:26 pid:164 Workerman[start.php] start in DEBUG mode
+2021-10-23 10:41:27 pid:164 Workerman[start.php] stopping ...
+2021-10-23 10:41:27 pid:164 Workerman[start.php] has been stopped
+2021-10-23 11:01:09 pid:178 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:01:26 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:26 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:26 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:26 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:26 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:26 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:27 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:27 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:27 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:27 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:28 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:28 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:29 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:29 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:29 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:29 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:29 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:29 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:30 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:30 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:30 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:30 pid:190 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:30 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:30 pid:191 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:01:31 pid:178 Workerman[start.php] stopping ...
+2021-10-23 11:01:31 pid:178 Workerman[start.php] has been stopped
+2021-10-23 11:02:24 pid:192 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:02:27 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:27 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:27 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:27 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:27 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:27 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:28 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:28 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:28 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:28 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:28 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:28 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:29 pid:192 Workerman[start.php] stopping ...
+2021-10-23 11:02:29 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:29 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:29 pid:204 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:29 pid:205 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:02:29 pid:192 Workerman[start.php] has been stopped
+2021-10-23 11:03:09 pid:206 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:03:14 pid:218 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:14 pid:219 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:14 pid:218 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:14 pid:219 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:14 pid:219 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:14 pid:219 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:15 pid:218 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:15 pid:218 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:15 pid:218 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:15 pid:218 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:15 pid:219 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:15 pid:219 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-10-23 11:03:16 pid:206 Workerman[start.php] stopping ...
+2021-10-23 11:03:16 pid:206 Workerman[start.php] has been stopped
+2021-10-23 11:10:35 pid:221 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:11:08 pid:221 Workerman[start.php] stopping ...
+2021-10-23 11:11:08 pid:221 Workerman[start.php] has been stopped
+2021-10-23 11:11:09 pid:235 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:12:38 pid:235 Workerman[start.php] stopping ...
+2021-10-23 11:12:38 pid:235 Workerman[start.php] has been stopped
+2021-10-23 11:12:39 pid:249 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:12:42 pid:262 Error: Cannot use object of type Workerman\Protocols\Http\Request as array in /home/www/GatewayWorker/Applications/thirdParty/start_gateway.php:63
+Stack trace:
+#0 /home/www/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(638): {closure}()
+#1 /home/www/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): Workerman\Connection\TcpConnection->baseRead()
+#2 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#3 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#4 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux()
+#5 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#6 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#7 /home/www/GatewayWorker/start.php(49): Workerman\Worker::runAll()
+#8 {main}
+2021-10-23 11:12:42 pid:249 worker[none:262] exit with status 64000
+2021-10-23 11:12:43 pid:261 Error: Cannot use object of type Workerman\Protocols\Http\Request as array in /home/www/GatewayWorker/Applications/thirdParty/start_gateway.php:63
+Stack trace:
+#0 /home/www/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(638): {closure}()
+#1 /home/www/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): Workerman\Connection\TcpConnection->baseRead()
+#2 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#3 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#4 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux()
+#5 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#6 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#7 /home/www/GatewayWorker/start.php(49): Workerman\Worker::runAll()
+#8 {main}
+2021-10-23 11:12:43 pid:249 worker[none:261] exit with status 64000
+2021-10-23 11:12:43 pid:263 Error: Cannot use object of type Workerman\Protocols\Http\Request as array in /home/www/GatewayWorker/Applications/thirdParty/start_gateway.php:63
+Stack trace:
+#0 /home/www/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(638): {closure}()
+#1 /home/www/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): Workerman\Connection\TcpConnection->baseRead()
+#2 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#3 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#4 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux()
+#5 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#6 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1680): Workerman\Worker::forkWorkers()
+#7 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(1629): Workerman\Worker::monitorWorkersForLinux()
+#8 /home/www/GatewayWorker/vendor/workerman/workerman/Worker.php(544): Workerman\Worker::monitorWorkers()
+#9 /home/www/GatewayWorker/start.php(49): Workerman\Worker::runAll()
+#10 {main}
+2021-10-23 11:12:43 pid:249 worker[none:263] exit with status 64000
+2021-10-23 11:12:45 pid:249 Workerman[start.php] stopping ...
+2021-10-23 11:12:45 pid:249 Workerman[start.php] has been stopped
+2021-10-23 11:13:08 pid:266 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:13:36 pid:266 Workerman[start.php] stopping ...
+2021-10-23 11:13:36 pid:266 Workerman[start.php] has been stopped
+2021-10-23 11:13:37 pid:280 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:16:24 pid:280 Workerman[start.php] stopping ...
+2021-10-23 11:16:24 pid:280 Workerman[start.php] has been stopped
+2021-10-23 11:16:25 pid:294 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:21:20 pid:294 Workerman[start.php] stopping ...
+2021-10-23 11:21:20 pid:294 Workerman[start.php] has been stopped
+2021-10-23 11:21:21 pid:308 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:28:30 pid:308 Workerman[start.php] stopping ...
+2021-10-23 11:28:30 pid:308 Workerman[start.php] has been stopped
+2021-10-23 11:30:01 pid:322 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:30:47 pid:322 Workerman[start.php] stopping ...
+2021-10-23 11:30:47 pid:322 Workerman[start.php] has been stopped
+2021-10-23 11:30:47 pid:336 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:31:20 pid:350 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:31:20 pid:350 Workerman[start.php] already running
+2021-10-23 11:31:30 pid:351 Workerman[start.php] restart 
+2021-10-23 11:31:30 pid:351 Workerman[start.php] is stopping ...
+2021-10-23 11:31:35 pid:351 Workerman[start.php] stop fail
+2021-10-23 11:31:43 pid:352 Workerman[start.php] stop 
+2021-10-23 11:31:43 pid:352 Workerman[start.php] is stopping ...
+2021-10-23 11:31:48 pid:352 Workerman[start.php] stop fail
+2021-10-23 11:33:00 pid:361 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:33:00 pid:361 Workerman[start.php] already running
+2021-10-23 11:34:16 pid:390 Workerman[start.php] start in DEBUG mode
+2021-10-23 11:34:21 pid:390 Workerman[start.php] stopping ...
+2021-10-23 11:34:21 pid:390 Workerman[start.php] has been stopped
+2021-10-26 20:04:40 pid:489 Workerman[GatewayWorker/start.php] status 
+2021-10-26 20:04:41 pid:489 Workerman[GatewayWorker/start.php] not run
+2021-10-26 20:06:56 pid:514 Workerman[PHPSpring/start.php] start in DEBUG mode
+2021-10-26 20:07:28 pid:522 Workerman[start.php] start in DEBUG mode
+2021-10-26 20:07:35 pid:523 Workerman[start.php] status 
+2021-10-26 20:07:35 pid:523 Workerman[start.php] not run
+2021-10-26 20:08:09 pid:524 Workerman[start.php] start in DEBUG mode
+2021-10-26 20:08:12 pid:524 Workerman[start.php] stopping ...
+2021-10-26 20:08:12 pid:524 Workerman[start.php] has been stopped
