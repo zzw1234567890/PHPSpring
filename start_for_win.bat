@@ -1,2 +1,2 @@
-php Applications\app\start_register.php Applications\app\start_gateway.php Applications\app\start_businessworker.php Applications\thirdParty\start_gateway.php Applications\thirdParty\start_businessworker.php
+php Applications\websocket\start_register.php Applications\websocket\start_gateway.php Applications\websocket\start_businessworker.php Applications\http\start_worker.php
 pause

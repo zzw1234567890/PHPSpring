@@ -58,6 +58,20 @@ class ClassLoader{
         return $files;
     }
 
+    private function createComponent($dir){
+        $config = $this->config;
+        foreach($this->getFiles($dir . "/*") as $file){
+            if(in_array($file, $config->exclude)){
+                continue;
+            }
+            $class = ucwords(str_replace([ROOT_DIR . "/", "Applications/", ".php"], "", $file), "/");
+            $class = str_replace("/", "\\", $class);
+            if($this->isComponent($class)){
+                AppContext::getInstance($class);
+            }
+        }
+    }
+
     private function doLoadComponent($dir){
         $config = $this->config;
         foreach($this->getFiles($dir . "/*") as $file){
@@ -65,12 +79,8 @@ class ClassLoader{
                 continue;
             }
             require_once $file;
-            $class = ucwords(str_replace([ROOT_DIR . "/", "Applications/", ".php"], "", $file), "/");
-            $class = str_replace("/", "\\", $class);
-            if($this->isComponent($class)){
-                AppContext::getInstance($class);
-            }
         }
+        $this->createComponent($dir);
     }
 
     public function loadComponent(){

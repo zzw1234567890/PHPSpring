@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Interceptor;
+namespace WebSocket\Interceptor;
 
 use Lib\Attribute\Component;
 use Lib\IInterceptor;
